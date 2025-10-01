@@ -99,8 +99,7 @@ ol {
   flex-direction: column;
   gap: 30px;
   overflow-y: auto;
-  position: relative;
-  min-height: 386px;
+  min-height: 296px;
 }
 
 .content__list {
@@ -179,8 +178,8 @@ ol {
 
 .content__video-card-description {
   font-weight: 400;
-  font-size: 18px;
-  line-height: 16px;
+  font-size: 17px;
+  line-height: 15px;
   display: -webkit-box;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
